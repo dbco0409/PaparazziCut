@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+li{list-style:none}
+ul{padding:0px;}
+#all{width:1000px}
+#e{float:left; margin-left:30px;}
+#ctg2{width:130px; height:300px;  float:left}
+#ctg{width:700px; height:60px}
+#center{width:700px; height:600px;}
+
+#img{background-color:#CCCCCC;width:180px; height:100px;}
+#be{float:left; margin-left:10px;}
+#big{background-color:#ccc; width:300px; height:150px;}
+#small{background-color:#ccc;width:150px; height:70px; margin-top:10px;} 
+
+#flo{padding:10px;}

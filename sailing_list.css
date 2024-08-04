@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0;}
+li{list-style:none}
+ul{padding:10px}
+#all{width:900px}
+#img{background-color:#CCCCCC; width:150px; height:130px;}
+#btn{background-color:#999; width:80px; height:20px; color:#fff; text-align:center; font-weight:bold; padding-top:5px; float:left}
+#btn2{background-color:#6CF; width:150px; height:20px; padding-top:5px; color:#fff; text-align:center; font-weight:bold;}
+#btn3{background-color:#F9F; width:150px; height:20px; padding-top:5px; color:#fff; text-align:center; font-weight:bold;}
+#flo{float:left}
+#hot{width:800px; height:300px}
+#center{width:800px;}
+#ctg{width:120px; height:800px; float:left; background-color:#CCCCCC}
+#ctbag{background-color:#fff; height:20px; text-align:center; padding-top:5px;}

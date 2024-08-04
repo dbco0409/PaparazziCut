@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+li{list-style:none; float:left}
+#t{width:30px}
+#c{width:350px}
+div{width:450px; height:700px;}
+
+
+
+/* 사진첨부 */
+#tl{width:100px}
+#t2{width:80px;text-align:right}
+#cs{width:300px} 
+

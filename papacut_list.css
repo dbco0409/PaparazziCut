@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0 auto}
+li{list-style:none}
+#on{width:700px;}
+#best{float:left; width:600px; height:30px;}
+#image{background-color:#CCC; width:150px; height:130px;}
+#img{background-color:#CCC; width:90px; height:60px; float:left}
+#imgc{background-color:#CCC; width:120px; height:80px; float:left}
+#bestimg{float:left; height:180px; width:700px;}
+#hot, #list, #flo{float:left}
+#flo{width:400px}
+#love{font-weight:bold; color:#FF0000; }
+#list{width:100px}
+#type{width:700px;}
+#listd{height:100px; width:700px;}
+#listc{width:160px; height:180px; float:left}
+#button{width:700px; height:50px}
+#write{text-align:right; font-weight:bold;}
+#gallery{width:700px; height:400px}
